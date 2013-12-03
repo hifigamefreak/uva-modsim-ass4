@@ -1,0 +1,16 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Small-world network}{4}
+\contentsline {subsection}{\numberline {2.1}Watts-Strogatz}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}Graphs}{6}
+\contentsline {subsubsection}{\numberline {2.1.2}Plots}{7}
+\contentsline {subsection}{\numberline {2.2}Barabasi}{8}
+\contentsline {subsubsection}{\numberline {2.2.1}Graphs}{9}
+\contentsline {subsubsection}{\numberline {2.2.2}Plots}{10}
+\contentsline {subsection}{\numberline {2.3}SIR}{11}
+\contentsline {section}{\numberline {3}Measurements}{12}
+\contentsline {subsection}{\numberline {3.1}Watts-Strogatz compared to Barabasi}{12}
+\contentsline {subsection}{\numberline {3.2}Watts-Strogatz plots}{12}
+\contentsline {subsection}{\numberline {3.3}SIR Plots}{14}
+\contentsline {subsection}{\numberline {3.4}Analysis SIR}{16}
